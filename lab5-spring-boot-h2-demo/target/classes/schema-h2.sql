@@ -1,0 +1,3 @@
+CREATE TABLE cities(id BIGINT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(30), population BIGINT);
+    
